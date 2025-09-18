@@ -1,0 +1,1 @@
+Reverse engineering (RE) is the process of taking something finished—usually software (binaries), firmware, or a protocol—and working backwards to understand how it works, what it does, and why. Instead of looking at the original design or source, you analyze compiled code, network traces, or hardware to recover design, logic, data formats, algorithms, or hidden behavior.
